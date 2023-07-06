@@ -6,4 +6,5 @@ title = "Projects"
 
 - [ ] Showcase GitHub project repositories on here
     - [ ] Machine Learning Workshop
+    - [ ] Personal Website
     - [ ] Flappy Bird
