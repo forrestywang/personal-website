@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://forrestywang.netlify.app/"
 languageCode = "en-us"
 title = "Forrest Wang"
 theme = "hugo-coder"
