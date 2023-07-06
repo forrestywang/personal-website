@@ -1,0 +1,48 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Forrest Wang"
+theme = "hugo-coder"
+
+[markup.highlight]
+style = "monokai"
+
+# Content:
+[params]
+    author = "Forrest Wang"
+    info = ["UW Math Co-op Student", "Aspiring Actuary"]
+    avatarurl = "/img/avatar.webp"
+
+    faviconSVG = "/img/tree.ico"
+    favicon_16 = "/img/tree-16x16.png"
+    favicon_32 = "/img/tree-32x32.png"
+
+    colorScheme = "auto"
+
+    since = 2023
+
+# Social links:
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  url = "https://www.linkedin.com/in/forrestywang/"
+  weight = 1
+[[params.social]]
+  name = "GitHub"
+  icon = "fa fa-github fa-2x"
+  url = "https://github.com/forrestywang/"
+  weight = 2
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope fa-2x"
+  url = "mailto:fy5wang@uwaterloo.ca"
+  weight = 3
+
+# Menu links:
+[[menu.main]]
+  name = "About"
+  url  = "about/"
+  weight = 1
+[[menu.main]]
+  name = "Projects"
+  url = "posts/"
+  weight = 2
