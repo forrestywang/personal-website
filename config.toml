@@ -2,6 +2,7 @@ baseURL = "https://forrestywang.github.io/personal-website/"
 languageCode = "en-us"
 title = "Forrest Wang"
 theme = "hugo-coder"
+canonifyURLs = true
 
 [markup.highlight]
 style = "monokai"
