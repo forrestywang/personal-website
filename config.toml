@@ -53,6 +53,6 @@ url  = "about"
 weight = 2
 [[menu.main]]
 name = "Resumé"
-url = "Resume.pdf"
+url = "Resumé.pdf"
 type = "application/pdf"
 weight = 3
