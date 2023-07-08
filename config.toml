@@ -16,6 +16,7 @@ avatarurl = "/img/avatar.webp"
 faviconSVG = "/img/favicon.ico"
 favicon_16 = "/img/favicon-16x16.png"
 favicon_32 = "/img/favicon-32x32.png"
+touchIcon = "/img/apple-touch-icon.png"
 
 colorScheme = "auto"
 
@@ -26,16 +27,19 @@ since = 2023
 name = "LinkedIn"
 icon = "fa fa-linkedin fa-2x"
 url = "https://www.linkedin.com/in/forrestywang/"
+target = "_blank"
 weight = 1
 [[params.social]]
 name = "GitHub"
 icon = "fa fa-github fa-2x"
 url = "https://github.com/forrestywang/"
+target = "_blank"
 weight = 2
 [[params.social]]
 name = "Email"
 icon = "fa fa-envelope fa-2x"
 url = "mailto:fy5wang@uwaterloo.ca"
+target = "_blank"
 weight = 3
 
 # Menu links:
@@ -45,9 +49,10 @@ url = "posts/"
 weight = 1
 [[menu.main]]
 name = "About"
-url  = "about/"
+url  = "/about/"
 weight = 2
 [[menu.main]]
 name = "Resumé"
 url = "Resume.pdf/"
+type = "application/pdf"
 weight = 3
