@@ -13,9 +13,9 @@ style = "monokai"
     info = ["UW Math Co-op Student", "Aspiring Actuary"]
     avatarurl = "/img/avatar.webp"
 
-    faviconSVG = "/img/tree.ico"
-    favicon_16 = "/img/tree-16x16.png"
-    favicon_32 = "/img/tree-32x32.png"
+    faviconSVG = "/img/favicon.ico"
+    favicon_16 = "/img/favicon-16x16.png"
+    favicon_32 = "/img/favicon-32x32.png"
 
     colorScheme = "auto"
 
@@ -40,10 +40,14 @@ style = "monokai"
 
 # Menu links:
 [[menu.main]]
-  name = "About"
-  url  = "about/"
-  weight = 1
-[[menu.main]]
   name = "Projects"
   url = "posts/"
+  weight = 1
+[[menu.main]]
+  name = "About"
+  url  = "about/"
   weight = 2
+[[menu.main]]
+  name = "Resumé"
+  url = "Resumé.pdf/"
+  weight = 3
