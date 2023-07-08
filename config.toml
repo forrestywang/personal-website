@@ -17,7 +17,7 @@ style = "monokai"
     favicon_16 = "/img/favicon-16x16.png"
     favicon_32 = "/img/favicon-32x32.png"
 
-    colorScheme = "auto"
+    #colorScheme = "auto"
 
     since = 2023
 
