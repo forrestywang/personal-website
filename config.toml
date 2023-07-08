@@ -17,7 +17,7 @@ style = "monokai"
     favicon_16 = "/img/favicon-16x16.png"
     favicon_32 = "/img/favicon-32x32.png"
 
-    #colorScheme = "auto"
+    colorScheme = "dark"
 
     since = 2023
 
@@ -49,5 +49,5 @@ style = "monokai"
   weight = 2
 [[menu.main]]
   name = "Resumé"
-  url = "Resumé.pdf/"
+  url = "Resume.pdf/"
   weight = 3
