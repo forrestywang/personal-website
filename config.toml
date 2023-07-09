@@ -44,12 +44,12 @@ weight = 3
 
 # Menu links:
 [[menu.main]]
-name = "Projects"
-url = "posts"
+name = "Blog"
+url = "posts/"
 weight = 1
 [[menu.main]]
 name = "About"
-url  = "about"
+url  = "about/"
 weight = 2
 [[menu.main]]
 name = "Resume"
