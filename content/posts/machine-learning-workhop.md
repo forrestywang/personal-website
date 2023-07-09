@@ -1,6 +1,6 @@
 +++ 
 draft = true
-date = 2023-07-05T12:13:07-04:00
+date = 2023-03-05T12:13:07-04:00
 title = "Machine Learning Workshop"
 description = ""
 slug = ""
