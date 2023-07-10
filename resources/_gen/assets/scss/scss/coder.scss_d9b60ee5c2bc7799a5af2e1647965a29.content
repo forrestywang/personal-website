@@ -3292,9 +3292,7 @@ figure {
       .content article footer .see-also h3 {
         margin: 3.2rem 0; }
   .content article p {
-    text-align: justify;
-    text-justify: auto;
-    hyphens: auto; }
+    text-align: left; }
   .content .post .post-title {
     margin-bottom: 0.75em; }
   .content .post .post-meta i {
