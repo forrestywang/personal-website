@@ -6,9 +6,9 @@ tags = ["SSG", "Web Dev"]
 
 After seeing everyone showcase their projects with personal websites, I decided to make one myself.
 
-I didn't have any experience in web development, so I asked around and Static Site Generators (SSGs) seemed like the way to go. They combined the customizability of making a website from scratch with the plethora of modern, custom-made templates. I'm not an art person, so not having to worry about designing a UI made my life a lot easier. I just had to pick a template I liked, and start editing the contents.
+I didn't have any experience in web development, so I asked around and Static Site Generators (SSGs) seemed like the way to go. They combined the customizability of making a website from scratch with the plethora of modern, custom-made templates. I'm artistically challenged, so not having to worry about designing a UI made my life a lot easier. I just had to pick a template I liked, and start editing the contents.
 
-I chose the [Hugo-Coder](https://github.com/luizdepra/hugo-coder) theme because of it's simple and clean UI. I didn't have many projects to showcase, so I didn't need that complicated of a website.
+I chose the [Hugo-Coder](https://github.com/luizdepra/hugo-coder) theme because of its simple and clean UI. I didn't have many projects to showcase, so I didn't need that complicated of a website.
 
 To get started, I followed [Envato Tuts+'s Getting Started With Hugo Tutorial](https://www.youtube.com/watch?v=hjD9jTi_DQ4) and used the [Hugo-Coder Documentation](https://github.com/luizdepra/hugo-coder/blob/main/docs/home.md) and [Live Demo](https://hugo-coder.netlify.app/) as guides. I quickly learned how to clone the theme repository, edit the `config.toml` file, and add additional pages.
 
